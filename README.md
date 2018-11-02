@@ -3,7 +3,7 @@ Repository containing download utilities for the Highway Performance Monitoring 
 
 This repository contains a jupyter notebook and python file that allows automated download of HPMS shapefiles from the Federal Highway Administration. The output is a zipped File Geodatabase containing a merged national-level HPMS feature class. 
 
-The download process is quick, but the merging operation
+The download process is quick, but the merging operation can take some time. 
 
 # Requirements
 
